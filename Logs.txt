@@ -1,0 +1,29 @@
+backend:
+npm init -y
+npm install express
+to run: node src/server.js
+npm install nodemon -D
+Mongodb
+npm install mongoose
+
+npm install multer
+
+
+npm install cors
+npm install socket.io
+
+
+
+no frontend:
+npx create-react-app frontend
+npm install axios
+npm install react-router-dom
+
+npm install socket.io-client
+
+no mobile:
+npm install react-navigation
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+npm install axios
+@react-native-community/async-storage
+npm install socket.io-client
